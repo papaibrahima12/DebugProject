@@ -4,5 +4,8 @@
     "**/bower_components": true,
     "**/.sfdx": true
   },
-  "github.gitProtocol": "ssh"
+  "github.gitProtocol": "ssh",
+  "workbench.colorCustomizations": {
+    "statusBar.background": null
+  }
 }
